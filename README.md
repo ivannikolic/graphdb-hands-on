@@ -1,4 +1,4 @@
-# Ricardo Tech Talk - Graph Databases
+# Graph Databases - Hands-on 
 
 Graph databases, as the name suggests, are based on the mathematical principle of graph theory. Tech giants like Facebook, Google and LinkedIn use graph database technology to harness the power of data connections and leverage superior performance when querying related data. In the last few years, they have become quite popular option for data management, but on the other hand they still remain an enigma to many.
 
